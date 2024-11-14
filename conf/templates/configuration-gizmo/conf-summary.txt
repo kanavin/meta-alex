@@ -1,0 +1,1 @@
+This configuration is intended for building gizmo.
